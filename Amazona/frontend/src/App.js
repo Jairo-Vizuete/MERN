@@ -11,7 +11,7 @@ function App() {
         <header className="row">
           <div>
             <a className="brand" href="/">
-              amazona
+              DevIndie
             </a>
           </div>
           <div>
@@ -28,3 +28,5 @@ function App() {
     </BrowserRouter>
   );
 }
+
+export default App;
